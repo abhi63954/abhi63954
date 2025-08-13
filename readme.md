@@ -18,9 +18,9 @@ This repository is a showcase of my journey and work in multiple programming lan
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhishek-kuwarbi&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhishek-kuwarbi&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi63954&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi63954&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=abhi63954&theme=radical
 
 ---
 
