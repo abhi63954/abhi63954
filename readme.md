@@ -7,12 +7,13 @@ This repository is a showcase of my journey and work in multiple programming lan
 
 ## 💻 Programming Languages I Use
 
-- **HTML** – Structuring the web.
-- **CSS** – Designing beautiful interfaces.
-- **JavaScript** – Bringing interactivity to life.
-- **C** – Building low-level, efficient programs.
-- **C++** – Power and performance for complex projects.
-- **Python** – Versatile and beginner-friendly scripting.
+![HTML5 Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+![CSS3 Logo](https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS3_logo_and_wordmark.svg)
+![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+![C Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png)
+![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
 
 ---
 
