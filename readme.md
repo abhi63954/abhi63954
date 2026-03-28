@@ -61,11 +61,11 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=abhishek-kuwarbi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=abhi63954&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 
-![](https://streak-stats.demolab.com?user=abhishek-kuwarbi&theme=radical&hide_border=false)<br/>
+![](https://streak-stats.demolab.com?user=abhi63954&theme=radical&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-kuwarbi&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi63954&theme=radical&hide_border=false&layout=compact)
 
 <div align="center"> 
   <h2>✍️ Quote Of The Day:</h2>
