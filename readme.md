@@ -1,4 +1,11 @@
-## 📌 About
+<h1 align="center">Hi 👋 I'm Abhishek Kuwarbi</h1>
+<h3 align="center">A passionate Full Stack Developer & Problem Solver from India 🚀</h3>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=abhishek-kuwarbi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abhishek-kuwarbi" /> 
+</p>
+
+---
 
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA)** and **Full Stack Development**
 
@@ -8,66 +15,59 @@
 
 - 📫 How to reach me **kuwarbiabhishek9@gmail.com**
 
----
-
-## 🌐 Socials:
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/abhishek-kuwarbi)
+- ⚡ Fun fact **I debug faster after a chai ☕😄**
 
 ---
 
-## 💻 Tech Stack:
-
-### 🚀 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/abhishek-kuwarbi" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-### ⚙️ Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=abhishek-kuwarbi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-kuwarbi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-kuwarbi&theme=radical&hide_border=false&layout=compact)
 
 ---
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🧠 Core Skills
-
-- 🔹 Data Structures & Algorithms (DSA)
-- 🔹 Full Stack Development (MERN Stack)
-- 🔹 REST API Development
-- 🔹 Problem Solving (LeetCode / GFG)
-- 🔹 Debugging & Optimization
-- 🔹 Clean Code Practices
-
----
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=abhi63954&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=abhi63954&theme=radical&hide_border=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi63954&theme=radical&hide_border=true&layout=compact)
-
----
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center"> 
+  <h2>✍️ Quote Of The Day:</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</div>
