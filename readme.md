@@ -17,6 +17,7 @@
 
 - ⚡ Fun fact **I debug faster after a chai ☕😄**
 
+-  **I am a vibe coder **
 ---
 
 <h3 align="left">Connect with me:</h3>
