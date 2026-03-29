@@ -71,3 +71,4 @@
   <h2>✍️ Quote Of The Day:</h2>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </div>
+updated by lalit mehra.
